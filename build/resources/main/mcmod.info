@@ -1,0 +1,16 @@
+[
+{
+  "modid": "twhmf",
+  "name": "Twilight will have more food",
+  "description": "This is my first mod!",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["wdcftgg"],
+  "credits": "这个模组为暮色森林添加了更多食物",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
